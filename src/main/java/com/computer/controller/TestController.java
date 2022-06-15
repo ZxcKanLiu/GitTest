@@ -9,5 +9,6 @@ public class TestController {
         System.out.println("拉布拉多");
         System.out.println("fix再次提交");
         System.out.println("综合提交");
+        System.out.println("github页面提交");
     }
 }
